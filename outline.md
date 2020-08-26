@@ -1,0 +1,22 @@
+-Job:
+    - title                                  
+    - location                            - Apply for a job
+    - job type                            - Post for a job
+    - job description 
+    - published at
+    - vacancy 
+    - salary
+    - category
+    - experience
+
+- Blog:
+    - title                               - search
+    - description                         - comment
+    - created_at                          - recent post
+    - category
+    - tags
+    - author
+
+- contacct
+- Home
+- Login
